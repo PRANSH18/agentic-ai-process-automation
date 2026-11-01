@@ -1,4 +1,4 @@
-# Agentic AI for Internship Report Verification
+# Agentic AI Process Automation: Internship Report Verification
 
 **Can a multi-agent system take the manual checking out of internship reporting without taking the judgement away from faculty?**
 
